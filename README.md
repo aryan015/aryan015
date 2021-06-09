@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aryan015
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning reactJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web dev project.
+- 📫 You xan reach me by aryankhandelwal15@gmail.com 
 
 <!---
 aryan015/aryan015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
